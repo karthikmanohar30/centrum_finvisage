@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CentrumFinvisage" duration-ms="141238" started-at="2019-09-17T05:45:00Z" finished-at="2019-09-17T05:47:21Z">
+    <groups>
+    </groups>
+    <test name="CantrumApp Test" duration-ms="141238" started-at="2019-09-17T05:45:00Z" finished-at="2019-09-17T05:47:21Z">
+      <class name="com.CentrumFinvisage.testCases.CreateFacility">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.CreateFacility@42e26948]" name="setUp" is-config="true" duration-ms="3455" started-at="2019-09-17T05:45:46Z" finished-at="2019-09-17T05:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createFacility()[pri:0, instance:com.CentrumFinvisage.testCases.CreateFacility@42e26948]" name="createFacility" duration-ms="6394" started-at="2019-09-17T05:45:49Z" finished-at="2019-09-17T05:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFacility -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.CreateFacility@42e26948]" name="tearDown" is-config="true" duration-ms="724" started-at="2019-09-17T05:45:56Z" finished-at="2019-09-17T05:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.CreateFacility -->
+      <class name="com.CentrumFinvisage.testCases.CreateExternalParty">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.CreateExternalParty@53b32d7]" name="setUp" is-config="true" duration-ms="3453" started-at="2019-09-17T05:46:22Z" finished-at="2019-09-17T05:46:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createExternalParty()[pri:0, instance:com.CentrumFinvisage.testCases.CreateExternalParty@53b32d7]" name="createExternalParty" duration-ms="10283" started-at="2019-09-17T05:46:25Z" finished-at="2019-09-17T05:46:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createExternalParty -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.CreateExternalParty@53b32d7]" name="tearDown" is-config="true" duration-ms="710" started-at="2019-09-17T05:46:35Z" finished-at="2019-09-17T05:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.CreateExternalParty -->
+      <class name="com.CentrumFinvisage.testCases.CreateAnchor">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.CreateAnchor@7d9d1a19]" name="setUp" is-config="true" duration-ms="3404" started-at="2019-09-17T05:45:09Z" finished-at="2019-09-17T05:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createAnchor()[pri:0, instance:com.CentrumFinvisage.testCases.CreateAnchor@7d9d1a19]" name="createAnchor" duration-ms="6339" started-at="2019-09-17T05:45:13Z" finished-at="2019-09-17T05:45:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnchor -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.CreateAnchor@7d9d1a19]" name="tearDown" is-config="true" duration-ms="722" started-at="2019-09-17T05:45:19Z" finished-at="2019-09-17T05:45:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.CreateAnchor -->
+      <class name="com.CentrumFinvisage.testCases.Logintest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.Logintest@4883b407]" name="setUp" is-config="true" duration-ms="5016" started-at="2019-09-17T05:45:00Z" finished-at="2019-09-17T05:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.CentrumFinvisage.testCases.Logintest@4883b407]" name="loginTest" duration-ms="3266" started-at="2019-09-17T05:45:05Z" finished-at="2019-09-17T05:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.Logintest@4883b407]" name="tearDown" is-config="true" duration-ms="797" started-at="2019-09-17T05:45:08Z" finished-at="2019-09-17T05:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.Logintest -->
+      <class name="com.CentrumFinvisage.testCases.AssignLenderToUser">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.AssignLenderToUser@343f4d3d]" name="setUp" is-config="true" duration-ms="3489" started-at="2019-09-17T05:46:08Z" finished-at="2019-09-17T05:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="assignLenderUser()[pri:0, instance:com.CentrumFinvisage.testCases.AssignLenderToUser@343f4d3d]" name="assignLenderUser" duration-ms="9269" started-at="2019-09-17T05:46:12Z" finished-at="2019-09-17T05:46:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignLenderUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.AssignLenderToUser@343f4d3d]" name="tearDown" is-config="true" duration-ms="713" started-at="2019-09-17T05:46:21Z" finished-at="2019-09-17T05:46:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.AssignLenderToUser -->
+      <class name="com.CentrumFinvisage.testCases.CreateProgram">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.CreateProgram@1794d431]" name="setUp" is-config="true" duration-ms="3486" started-at="2019-09-17T05:45:34Z" finished-at="2019-09-17T05:45:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createProgram()[pri:0, instance:com.CentrumFinvisage.testCases.CreateProgram@1794d431]" name="createProgram" duration-ms="7975" started-at="2019-09-17T05:45:37Z" finished-at="2019-09-17T05:45:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProgram -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.CreateProgram@1794d431]" name="tearDown" is-config="true" duration-ms="735" started-at="2019-09-17T05:45:45Z" finished-at="2019-09-17T05:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.CreateProgram -->
+      <class name="com.CentrumFinvisage.testCases.CreateNewInvoice">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.CreateNewInvoice@548e7350]" name="setUp" is-config="true" duration-ms="3447" started-at="2019-09-17T05:46:54Z" finished-at="2019-09-17T05:46:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewInvoice()[pri:0, instance:com.CentrumFinvisage.testCases.CreateNewInvoice@548e7350]" name="createNewInvoice" duration-ms="22952" started-at="2019-09-17T05:46:58Z" finished-at="2019-09-17T05:47:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewInvoice -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.CreateNewInvoice@548e7350]" name="tearDown" is-config="true" duration-ms="733" started-at="2019-09-17T05:47:21Z" finished-at="2019-09-17T05:47:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.CreateNewInvoice -->
+      <class name="com.CentrumFinvisage.testCases.CreateForecastView">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.CreateForecastView@5442a311]" name="setUp" is-config="true" duration-ms="3386" started-at="2019-09-17T05:46:36Z" finished-at="2019-09-17T05:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createForecastView()[pri:0, instance:com.CentrumFinvisage.testCases.CreateForecastView@5442a311]" name="createForecastView" duration-ms="13421" started-at="2019-09-17T05:46:39Z" finished-at="2019-09-17T05:46:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createForecastView -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.CreateForecastView@5442a311]" name="tearDown" is-config="true" duration-ms="1293" started-at="2019-09-17T05:46:53Z" finished-at="2019-09-17T05:46:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.CreateForecastView -->
+      <class name="com.CentrumFinvisage.testCases.CreateLender">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.CreateLender@57baeedf]" name="setUp" is-config="true" duration-ms="3440" started-at="2019-09-17T05:45:56Z" finished-at="2019-09-17T05:46:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createLender()[pri:0, instance:com.CentrumFinvisage.testCases.CreateLender@57baeedf]" name="createLender" duration-ms="7573" started-at="2019-09-17T05:46:00Z" finished-at="2019-09-17T05:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLender -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.CreateLender@57baeedf]" name="tearDown" is-config="true" duration-ms="763" started-at="2019-09-17T05:46:07Z" finished-at="2019-09-17T05:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.CreateLender -->
+      <class name="com.CentrumFinvisage.testCases.AssignAnchorToUser">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.CentrumFinvisage.testCases.AssignAnchorToUser@39c0f4a]" name="setUp" is-config="true" duration-ms="3451" started-at="2019-09-17T05:45:20Z" finished-at="2019-09-17T05:45:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="assignAnchorToUser()[pri:0, instance:com.CentrumFinvisage.testCases.AssignAnchorToUser@39c0f4a]" name="assignAnchorToUser" duration-ms="9762" started-at="2019-09-17T05:45:23Z" finished-at="2019-09-17T05:45:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignAnchorToUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.CentrumFinvisage.testCases.AssignAnchorToUser@39c0f4a]" name="tearDown" is-config="true" duration-ms="716" started-at="2019-09-17T05:45:33Z" finished-at="2019-09-17T05:45:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.CentrumFinvisage.testCases.AssignAnchorToUser -->
+    </test> <!-- CantrumApp Test -->
+  </suite> <!-- CentrumFinvisage -->
+</testng-results>

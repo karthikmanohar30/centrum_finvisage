@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "CentrumFinvisage">
+<test name = "CantrumApp Test">
+<classes>
+	
+	<class name = "com.CentrumFinvisage.testCases.Logintest" />
+	<class name = "com.CentrumFinvisage.testCases.CreateAnchor" />
+	<class name = "com.CentrumFinvisage.testCases.AssignAnchorToUser" />
+	<class name = "com.CentrumFinvisage.testCases.CreateProgram" />
+	<class name = "com.CentrumFinvisage.testCases.CreateFacility" />
+	<class name = "com.CentrumFinvisage.testCases.CreateLender" />
+	<class name = "com.CentrumFinvisage.testCases.AssignLenderToUser" />
+	<class name = "com.CentrumFinvisage.testCases.CreateExternalParty" />
+	<class name = "com.CentrumFinvisage.testCases.CreateForecastView" />
+	<class name = "com.CentrumFinvisage.testCases.CreateNewInvoice" />
+	
+
+</classes> 
+</test>
+</suite>
